@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://getdbjs@bitbucket.org/fcabot/fcabot.git"
+    "url": "git+https://bitbucket.org/fcabot/fcabot.git"
   },
   "author": "",
   "license": "ISC",
