@@ -8,11 +8,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://bitbucket.org/fcabot/fcabot.git"
+    "url": ""
   },
   "author": "",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/fcabot/fcabot#readme",
+  "homepage": "",
   "dependencies": {
     "express": "^4.15.2"
   },
